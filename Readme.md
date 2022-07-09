@@ -33,3 +33,8 @@ In this project the following questions are tried being answered:
 ## 4. How to Interact with your project:
 
 First you need to install python and the libraries mentioned above. In a next step you need to run the jupyther notebook to take a look at the results
+
+## 5. Results
+
+Also in the this dataset it could be seen that the prices have increased over time. 
+Looking at the second question. It can be seen that when analyzing the whole dataset. There is no clear correlation to the base rent visible. Whatsever when looking at larger cities the correlation to livingspace is clear. An Exception can be oberved when looking at Munich. One hyothesis is that maybe there are much less offers for appartment in Munich and there the data is biased.
