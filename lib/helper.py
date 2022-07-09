@@ -9,4 +9,4 @@ def get_number_of_zero_values(column: Series):
 
 def get_city_or_region(df: DataFrame, city:str): 
     '''takes a dataframe and a string and returns the dataframe filtered by the string'''
-    return df[df.geo_bln ==city]
+    return df[df.regio2 == city]
