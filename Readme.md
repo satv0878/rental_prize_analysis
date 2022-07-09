@@ -26,7 +26,9 @@ In this project the following questions are tried being answered:
 - **immo_data.csv** contains the raw rental data with in a csv format.The dataset contains data from immscout24 it container data from: 2018-09-22, 2019-05-10 and 2019-10-08.
   The data set contains most of the important properties, such as living area size, the rent, both base rent as well as total rent (if applicable), the location (street and house number, if available, ZIP code and state), type of energy etc. It also has two variables containing longer free text descriptions: description with a text describing the offer and facilities describing all available facilities, newest renovation etc. The date column was added to give the time of scraping.
 
-- **rental.ipynb** cotains the jypyther notebook
+- **rental.ipynb** contains the jypyther notebook
+
+- **helper.py** contains helper methods which help to keep the code in the juyptjer notbook clean and readable
 
 ## 4. How to Interact with your project:
 
