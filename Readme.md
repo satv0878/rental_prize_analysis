@@ -14,6 +14,13 @@
 
 This project takes a look at the developement of rental prices over 3 years. Whereas rantal prices where fetched at 4 specific points of time (September 2018, May 2019, October 2019, Februar 2020) from https://immobilienscout24.de/. The dataset was available on [Kaggle](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany). The was analyzed folowing the crisp dm process.
 
+In this project the following questions are tried being answered:
+
+- Did price to rent change over time ?
+- Is there a difference in the rent on different areas ?
+- Does living space, number of rooms, picture count, or year contructed have a correlation with the base rent ?
+- Does the latter change in different regions Hamburg, - Berlin, Münich, Bavaria, Bavaria without Münich ?
+
 ## 3. File Descriptions
 
 - **immo_data.csv** contains the raw rental data with in a csv format.The dataset contains data from immscout24 it container data from: 2018-09-22, 2019-05-10 and 2019-10-08.
